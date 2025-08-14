@@ -1,9 +1,11 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 
 
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,8,10,15,20&height=300&section=header&text=CYBERSECURITY%20%26%20DATA%20ANALYTICS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ethical%20Hacking%20%7C%20Data%20Science%20%7C%20Digital%20Forensics&descAlignY=55&descAlign=50)](https://github.com/SandroFalconiDev)
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  ¡Hola! Soy <strong>SANDRO FALCONI VIZCARRA</strong>
+  ¡Hola!, Soy <strong>SANDRO FALCONI </strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -12,7 +14,7 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/sandro-falconi-vizcarra">
+  <a href="https://www.linkedin.com/in/sandrofalconivizcarra/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/SandroFalconiDev">
@@ -222,16 +224,16 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Conecta Conmigo**
 
 <div align="center">
-  <a href="https://linkedin.com/in/sandro-falconi-vizcarra">
+  <a href="https://www.linkedin.com/in/sandrofalconivizcarra/">
     <img src="https://img.shields.io/badge/LinkedIn-Sandro_Falconi_Vizcarra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <br/>
-  <a href="mailto:contacto@sandrofalconi.dev">
-    <img src="https://img.shields.io/badge/Email-contacto@sandrofalconi.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:sandrofalconivizcarra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sandrofalconivizcarra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br/>
-  <a href="https://www.hackthebox.eu/profile/SandroFalconi">
-    <img src="https://img.shields.io/badge/HackTheBox-SandroFalconi-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <a href="https://github.com/SandroFalconiDev">
+    <img src="https://img.shields.io/badge/GitHub-SandroFalconiDev-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
