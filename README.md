@@ -1,140 +1,252 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">mi name is Sandro</h1>
- 
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Computer+Science+Student;Freelancer;Open-Source+Enthusiast" alt="Headline" />
-    </div>  
-<p align="center"><a href="">Portfolio↗️</a></p>
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-
-![GitHub followers](https://img.shields.io/github/followers/arjuncvinod?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/arjuncvinod?style=social)<img src="https://komarev.com/ghpvc/?username=arjuncvinod" alt="" />
-
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
 
 
- 🔭 I’m currently working on [My portfolio website]()
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  ¡Hola! Soy <strong>SANDRO FALCONI VIZCARRA</strong>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
- 🌱 I’m currently learning **React**
-
- 💬 Ask me about **Cibersecurity, Web development, Networks, MySQL**
-
- 📫 Reach out to me: **contacto.sandroshki@gmail.com**
-
- ✍ You can find my resume [here]()
-
- ⚡ Fun fact: **My first line of code was "Hello World!"**
-
- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/wXPEmYjn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arjuncvinod.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjun.c.vinod) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-c-vinod) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/acvinodvzr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arjuncvinod7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@arjuncvinod3793) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/arjun-c-vinod) 
-
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=arjuncvinod&theme=midnight-purple&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arjuncvinod&theme=midnight-purple&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arjuncvinod&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjuncvinod&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="arjuncvinod" /></a> </p>
-<!--- trophy (end) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-## Here are some 🦜Parrots😂:
-
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-   
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🔒+Cybersecurity+Specialist+%7C+Ethical+Hacker;📊+Data+Scientist+%7C+Analytics+Expert;🐍+Python+%7C+SQL+%7C+Machine+Learning;🛡️+Penetration+Testing+%7C+Digital+Forensics;⚡+Transforming+Data+%26+Securing+Systems" alt="Typing SVG" />
 </div>
-<br>
-<p align="center"">
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-<!---### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arjuncvinod&limit=5&theme=dark&combine_all_yearly_contributions=true)--->
+<div align="center">
+  <a href="https://linkedin.com/in/sandro-falconi-vizcarra">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SandroFalconiDev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SandroFalconiDev&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+</div>
 
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Sobre Mí**
+
+<img align="right" alt="Ethical Hacking GIF" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
+🔐 **Cybersecurity Specialist** y **Ethical Hacker** especializado en pentesting y análisis forense
+
+📊 **Data Scientist** apasionado por descubrir patrones en datos y crear insights de seguridad
+
+🛡️ Experto en identificar vulnerabilidades y fortalecer la seguridad de sistemas
+
+💡 Transformo datos complejos en inteligencia accionable para decisiones de negocio
+
+🔍 Especializado en análisis de logs, detección de amenazas y forensia digital
+
+📈 Creo dashboards de seguridad y pipelines ETL para monitoreo continuo
+
+💼 Combino habilidades técnicas de hacking ético con análisis avanzado de datos
+
+<br/>
 
 ---
-<!---[![](https://visitcount.itsvg.in/api?id=arjuncvinod&icon=5&color=11)](https://visitcount.itsvg.in) -->
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Arsenal Tecnológico**
 
+### 🐍 **Lenguajes de Programación & Análisis**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/DAX-FF6600?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+</div>
 
-Credit: [arjuncvinod](https://github.com/arjuncvinod)
+### 🛡️ **Cybersecurity & Penetration Testing**
+<div align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+</div>
 
-Last Edited on: 04/07/2023
+### 📊 **Data Analytics & Visualization**
+<div align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+</div>
 
+### 🤖 **Machine Learning & Security Analytics**
+<div align="center">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/YARA-00A4EF?style=for-the-badge&logo=yara&logoColor=white" alt="YARA"/>
+</div>
 
------
-Credits: [K M H Mubin](https://github.com/kmhmubin)
+### 🔄 **Infrastructure & Security Tools**
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</div>
 
-Last Edited on: 03/12/2020
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **Especialidades Duales**
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/2092/2092063.png" width="80" height="80"/><br/>
+<b>Ethical Hacking</b><br/>
+<i>Penetration Testing & Vulnerability Assessment</i>
+</td>
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="80" height="80"/><br/>
+<b>Digital Forensics</b><br/>
+<i>Análisis Forense & Investigación</i>
+</td>
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/4727/4727266.png" width="80" height="80"/><br/>
+<b>Threat Intelligence</b><br/>
+<i>Análisis de Malware & IOCs</i>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/8637/8637101.png" width="80" height="80"/><br/>
+<b>Machine Learning</b><br/>
+<i>Modelos Predictivos & Clasificación</i>
+</td>
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="80" height="80"/><br/>
+<b>Data Visualization</b><br/>
+<i>Dashboards & Reportes Interactivos</i>
+</td>
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/9850/9850774.png" width="80" height="80"/><br/>
+<b>ETL & Big Data</b><br/>
+<i>Pipelines de Datos & Analytics</i>
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Analytics**
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=SandroFalconiDev&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=FF0000" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandroFalconiDev&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=FF0000&fire=FF0000&currStreakLabel=00FF41" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 💻 **Lenguajes Dominados**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-100%25-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python 100%"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/SQL-100%25-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL 100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/DAX-100%25-FF6600?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX 100%"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Kali%20Linux-100%25-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux 100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Proyectos Destacados**
+
+<div align="center">
+  <a href="https://github.com/SandroFalconiDev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SandroFalconiDev&repo=cybersecurity-analytics-suite&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=FF0000" alt="Cybersecurity Analytics"/>
+  </a>
+  <a href="https://github.com/SandroFalconiDev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SandroFalconiDev&repo=ethical-hacking-toolkit&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=FF0000" alt="Ethical Hacking Toolkit"/>
+  </a>
+</div>
+
+---
+
+## 🏆 **Certificaciones & Logros**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-FF0000?style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH"/>
+  <img src="https://img.shields.io/badge/CISSP-Security%20Professional-0066CC?style=for-the-badge&logo=isc2&logoColor=white" alt="CISSP"/>
+  <img src="https://img.shields.io/badge/Data%20Science-Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Data Science"/>
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SandroFalconiDev&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🎯 **Mi Filosofía**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/><br/>
+        <b>🔒 "La seguridad no es un producto, es un proceso"</b>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/><br/>
+        <b>📊 "Los datos sin contexto son solo ruido"</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Conecta Conmigo**
+
+<div align="center">
+  <a href="https://linkedin.com/in/sandro-falconi-vizcarra">
+    <img src="https://img.shields.io/badge/LinkedIn-Sandro_Falconi_Vizcarra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <br/>
+  <a href="mailto:contacto@sandrofalconi.dev">
+    <img src="https://img.shields.io/badge/Email-contacto@sandrofalconi.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <br/>
+  <a href="https://www.hackthebox.eu/profile/SandroFalconi">
+    <img src="https://img.shields.io/badge/HackTheBox-SandroFalconi-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,8,10,15,20&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <b>⚡ "Hacking ethically, analyzing intelligently, securing effectively" ⚡</b>
+  <br/><br/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
+</div>
